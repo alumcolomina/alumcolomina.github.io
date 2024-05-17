@@ -1,0 +1,71 @@
+.menuB{
+    border: none;
+    background-color: rgba(128, 128, 128, 0.421);
+    border-radius: 20px;
+    cursor: pointer;
+}
+.arriba{
+    width: 100%;
+    margin-left: 0px;
+    text-align:left;
+    border-radius: 5px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: #fff;
+
+}
+a:link, a:visited, a:hover, a:active {
+    color:rgb(0, 8, 255);
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+header div center p{
+    width: 200px;
+    text-align: center;
+}
+
+body {
+    background-color: #4B0082; /* Morado oscurecido */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+.menu{
+    display: none;
+    background-color: #33333378;
+    width: 150px;
+    border: rgba(128, 128, 128, 0.421) solid 10px;
+    border-radius: 10px;
+
+}
+#mostrar{
+    
+    background-color: #33333378;
+    width: 150px;
+    border: rgba(128, 128, 128, 0.421) solid 10px;
+    border-radius: 10px;
+
+}
+
+.span{
+    display: inline-block;
+}
+.imagen{
+    padding-left: 300px;
+
+}
